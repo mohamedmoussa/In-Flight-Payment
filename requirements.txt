@@ -1,0 +1,5 @@
+requests
+json
+pytest
+pandas
+requests_mock
